@@ -14,7 +14,7 @@ Project ini terdiri dari:
 - `app.py` — aplikasi Streamlit
 - `src/` — modul utama (preprocessing, inference, recommender)
 - `models/` — model PyTorch `.pt`
-- `data/books/` — dataset buku (`books.csv`, `books_processed.csv`, `genre_mapping.json`)
+- `data/books/` — dataset buku (`books.csv` (original), `books_processed.csv`, `genre_mapping.json`)
 - `notebooks/` — notebook eksplorasi
 
 ## Prasyarat
@@ -65,7 +65,7 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 **CPU saja:**
 
 ```bash
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+pip install torch torchvision
 ```
 
 ### 2) Install package lainnya
