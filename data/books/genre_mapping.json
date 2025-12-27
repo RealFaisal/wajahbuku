@@ -1,0 +1,31 @@
+{
+  "happy": [
+    "Fiction & Literature",
+    "Children & Young Adult",
+    "Humor",
+    "Comics & Graphic Novels"
+  ],
+  "sad": [
+    "Biography & Autobiography",
+    "Self-Help & Personal Development",
+    "Psychology & Self-Help",
+    "Religion & Spirituality"
+  ],
+  "angry": [
+    "Crime, Mystery & Thriller",
+    "Psychology & Self-Help",
+    "Drama & Performing Arts"
+  ],
+  "surprised": [
+    "Crime, Mystery & Thriller",
+    "Fantasy & Science Fiction",
+    "Drama & Performing Arts"
+  ],
+  "fearful": [
+    "Religion & Spirituality",
+    "Psychology & Self-Help",
+    "Health & Medicine",
+    "Biography & Autobiography"
+  ],
+  "neutral": []
+}

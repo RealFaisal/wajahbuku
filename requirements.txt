@@ -1,0 +1,42 @@
+# ============================================
+# WajahBuku - Book Recommender by Face Emotion
+# ============================================
+#
+# INSTALLATION ORDER (IMPORTANT):
+# 1. Create virtual environment: python -m venv .venv
+# 2. Activate: .venv\Scripts\activate (Windows) or source .venv/bin/activate (Linux/Mac)
+# 3. Install PyTorch FIRST (see instructions below)
+# 4. Install other requirements: pip install -r requirements.txt
+#
+# ============================================
+
+# -------------------- INSTALL PYTORCH FIRST --------------------
+# PyTorch & TorchVision (INSTALL MANUALLY BEFORE OTHER PACKAGES)
+# 
+# For GPU with CUDA 13.0 or Other Versions (check https://pytorch.org/get-started/locally/ for more options):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+#
+# For CPU only:
+#   pip install torch torchvision
+#
+# After PyTorch installed, continue installing packages below
+# ---------------------------------------------------------------
+
+# -------------------- Other --------------------
+
+# Jupyter Notebook
+notebook
+
+# Data processing
+pandas
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Computer Vision & Face Detection
+opencv-python
+facenet-pytorch
+
+# Web Application
+streamlit
