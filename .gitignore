@@ -27,3 +27,7 @@ Thumbs.db
 
 # Training files
 /training/
+
+# Model files
+models/*
+!models/.gitkeep
