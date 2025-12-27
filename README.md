@@ -92,7 +92,7 @@ Dari root project:
 streamlit run app.py
 ```
 
-Jika berhasil, Streamlit akan menampilkan URL lokal (biasanya `http://localhost:8501`).
+Jika berhasil, Streamlit akan menampilkan URL lokal.
 
 ## Catatan Data & Model
 
